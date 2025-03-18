@@ -26,3 +26,6 @@
 
 ---
 ⭐ **If you like my work, consider giving my repositories a star!**  
+
+![Profile Views](https://komarev.com/ghpvc/?username=ayushhemdan&label=Profile%20Views&color=0e75b6&style=flat)
+
