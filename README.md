@@ -4,7 +4,7 @@
 ### 🔥 About Me  
 - 💻 Passionate about coding, problem-solving & web development  
 - 🌱 Currently learning **DSA, SQL & C#**  
-- 🎯 Solved **70+ DSA problems** on LeetCode & **250+ DSA problems** on GFG  
+- 🎯 Solved **100+ DSA problems** on LeetCode & **250+ DSA problems** on GFG  
 - 💼 Looking for opportunities in **Java Backend Development & Full Stack**  
 - 📫 Reach me at **ayush.hemdan04@gmail.com**  
 
